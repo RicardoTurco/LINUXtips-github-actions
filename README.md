@@ -1,4 +1,4 @@
-# Descomplicando GitHub Actions na prática
+# Descomplicando GitHub Actions na prática (agora vai....)
 
 Se inscreva na aula ao vivo e gratuita: https://quiz.linuxtips.io/github-actions
 
